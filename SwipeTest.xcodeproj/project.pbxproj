@@ -114,8 +114,6 @@
 		A16FDD2717F2B57F007CECB5 /* SwipeTest */ = {
 			isa = PBXGroup;
 			children = (
-				A16FDD3017F2B57F007CECB5 /* SwipeTestAppDelegate.h */,
-				A16FDD3117F2B57F007CECB5 /* SwipeTestAppDelegate.m */,
 				A16FDD3317F2B57F007CECB5 /* Main_iPhone.storyboard */,
 				A16FDD3617F2B57F007CECB5 /* Main_iPad.storyboard */,
 				A16FDD3917F2B57F007CECB5 /* SwipeTestViewController.h */,
@@ -129,6 +127,8 @@
 		A16FDD2817F2B57F007CECB5 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				A16FDD3017F2B57F007CECB5 /* SwipeTestAppDelegate.h */,
+				A16FDD3117F2B57F007CECB5 /* SwipeTestAppDelegate.m */,
 				A16FDD2917F2B57F007CECB5 /* SwipeTest-Info.plist */,
 				A16FDD2A17F2B57F007CECB5 /* InfoPlist.strings */,
 				A16FDD2D17F2B57F007CECB5 /* main.m */,
